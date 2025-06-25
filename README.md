@@ -2,13 +2,7 @@
 
 <details>
   <summary> Flight Risks</summary>
-  
-  -johnny.palmer@enron.com
-  -bobette.riner@ipgdirect.com
-  -john.arnold@enron.com
-  -don.baughman@enron.com
-  -sally.beck@enron.com`
-  
+  None
 </details>
 
 ---
@@ -16,79 +10,43 @@
 <details>
   <summary> Top 3 Negative Employees</summary>
 
-  - year_month from monthly_score
-  - 2010-01 bobette.riner@ipgdirect.com 1
-  - 2010-01 johnny.palmer@enron.com 1
-  - 2010-01 rhonda.denton@enron.com 1
-  - 2010-02 kayne.coulter@enron.com 1
-  - 2010-02 lydia.delgado@enron.com 1
-  - 2010-02 patti.thompson@enron.com 1
-  - 2010-03 rhonda.denton@enron.com 1
-  - 2010-03 don.baughman@enron.com 2
-  - 2010-03 eric.bass@enron.com 3
-  - 2010-04 eric.bass@enron.com 2
-  - 2010-04 bobette.riner@ipgdirect.com 3
-  - 2010-04 sally.beck@enron.com 3
-  - 2010-05 johnny.palmer@enron.com 1
-  - 2010-05 bobette.riner@ipgdirect.com 2
-  - 2010-05 john.arnold@enron.com 3
-  - 2010-06 eric.bass@enron.com 1
-  - 2010-06 bobette.riner@ipgdirect.com 2
-  - 2010-06 kayne.coulter@enron.com 2
-  - 2010-07 patti.thompson@enron.com 1
-  - 2010-07 don.baughman@enron.com 2
-  - 2010-07 johnny.palmer@enron.com 3
-  - 2010-08 patti.thompson@enron.com 1
-  - 2010-08 don.baughman@enron.com 2
-  - 2010-08 eric.bass@enron.com 2
-  - 2010-09 don.baughman@enron.com 2
-  - 2010-09 kayne.coulter@enron.com 2
-  - 2010-09 bobette.riner@ipgdirect.com 3
-  - 2010-10 don.baughman@enron.com 0
-  - 2010-10 kayne.coulter@enron.com 1
-  - 2010-10 rhonda.denton@enron.com 1
-  - 2010-11 johnny.palmer@enron.com 1
-  - 2010-11 don.baughman@enron.com 4
-  - 2010-11 kayne.coulter@enron.com 4
-  - 2010-12 johnny.palmer@enron.com 1
-  - 2010-12 patti.thompson@enron.com 1
-  - 2010-12 eric.bass@enron.com 2
-  - 2011-01 kayne.coulter@enron.com 1
-  - 2011-01 don.baughman@enron.com 2
-  - 2011-01 john.arnold@enron.com 2
-  - 2011-02 eric.bass@enron.com -1
-  - 2011-02 don.baughman@enron.com 0
-  - 2011-02 bobette.riner@ipgdirect.com 2
-  - 2011-03 johnny.palmer@enron.com 0
-  - 2011-03 don.baughman@enron.com 1
-  - 2011-03 eric.bass@enron.com 4
-  - 2011-04 sally.beck@enron.com 0
-  - 2011-04 john.arnold@enron.com 2
-  - 2011-04 kayne.coulter@enron.com 2
-  - 2011-05 bobette.riner@ipgdirect.com 1
-  - 2011-05 kayne.coulter@enron.com 1
-  - 2011-05 patti.thompson@enron.com 1
-  - 2011-06 kayne.coulter@enron.com -1
-  - 2011-06 don.baughman@enron.com 2
-  - 2011-06 sally.beck@enron.com 2
-  - 2011-07 lydia.delgado@enron.com -1
-  - 2011-07 kayne.coulter@enron.com 1
-  - 2011-07 don.baughman@enron.com 3
-  - 2011-08 kayne.coulter@enron.com 1
-  - 2011-08 rhonda.denton@enron.com 1
-  - 2011-08 bobette.riner@ipgdirect.com 2
-  - 2011-09 john.arnold@enron.com 1
-  - 2011-09 sally.beck@enron.com 1
-  - 2011-09 lydia.delgado@enron.com 5
-  - 2011-10 bobette.riner@ipgdirect.com 0
-  - 2011-10 rhonda.denton@enron.com 0
-  - 2011-10 johnny.palmer@enron.com 2
-  - 2011-11 eric.bass@enron.com 1
-  - 2011-11 rhonda.denton@enron.com 2
-  - 2011-11 don.baughman@enron.com 5
-  - 2011-12 johnny.palmer@enron.com 2
-  - 2011-12 bobette.riner@ipgdirect.com 3
-  - 2011-12 john.arnold@enron.com 4
+- Year-Month Email MonthlyScore
+- 2010-01	john.arnold@enron.com	-1
+- 2010-01	sally.beck@enron.com	-1
+- 2010-02	kayne.coulter@enron.com	-2
+- 2010-02	john.arnold@enron.com	-1
+- 2010-04	patti.thompson@enron.com	-1
+- 2010-04	sally.beck@enron.com	-1
+- 2010-05	patti.thompson@enron.com	-2
+- 2010-05	don.baughman@enron.com	-1
+- 2010-05	sally.beck@enron.com	-1
+- 2010-06	bobette.riner@ipgdirect.com	-1
+- 2010-06	john.arnold@enron.com	-1
+- 2010-07	sally.beck@enron.com	-2
+- 2010-08	bobette.riner@ipgdirect.com	-1
+- 2010-08	rhonda.denton@enron.com	-1
+- 2010-10	eric.bass@enron.com	-1
+- 2010-10	john.arnold@enron.com	-1
+- 2010-10	lydia.delgado@enron.com	-1
+- 2010-11	don.baughman@enron.com	-1
+- 2010-11	kayne.coulter@enron.com	-1
+- 2010-11	lydia.delgado@enron.com	-1
+- 2010-12	rhonda.denton@enron.com	-2
+- 2010-12	don.baughman@enron.com	-1
+- 2010-12	lydia.delgado@enron.com	-1
+- 2011-01	bobette.riner@ipgdirect.com	-1
+- 2011-01	kayne.coulter@enron.com	-1
+- 2011-03	eric.bass@enron.com	-1
+- 2011-04	johnny.palmer@enron.com	-1
+- 2011-04	kayne.coulter@enron.com	-1
+- 2011-05	johnny.palmer@enron.com	-1
+- 2011-06	rhonda.denton@enron.com	-1
+- 2011-08	patti.thompson@enron.com	-1
+- 2011-08	sally.beck@enron.com	-1
+- 2011-09	kayne.coulter@enron.com	-1
+- 2011-10	kayne.coulter@enron.com	-1
+- 2011-10	lydia.delgado@enron.com	-1
+![image](https://github.com/user-attachments/assets/8adda115-defd-4830-9f04-09a90384e13a)
 
 
 </details>
@@ -97,84 +55,54 @@
 
 <details>
   <summary> Top 3 Positive Employees</summary>
+- Year-Month Email MonthlyScore
+- 2010-01	don.baughman@enron.com	1
+- 2010-01	eric.bass@enron.com	1
+- 2010-02	don.baughman@enron.com	1
+- 2010-03	don.baughman@enron.com	1
+- 2010-03	johnny.palmer@enron.com	1
+- 2010-04	lydia.delgado@enron.com	1
+- 2010-05	bobette.riner@ipgdirect.com	1
+- 2010-06	patti.thompson@enron.com	1
+- 2010-07	eric.bass@enron.com	1
+- 2010-08	don.baughman@enron.com	1
+- 2010-08	lydia.delgado@enron.com	1
+- 2010-08	sally.beck@enron.com	1
+- 2010-09	bobette.riner@ipgdirect.com	1
+- 2010-09	john.arnold@enron.com	1
+- 2010-09	johnny.palmer@enron.com	1
+- 2010-11	bobette.riner@ipgdirect.com	1
+- 2010-12	sally.beck@enron.com	2
+- 2010-12	bobette.riner@ipgdirect.com	1
+- 2011-01	eric.bass@enron.com	2
+- 2011-01	sally.beck@enron.com	1
+- 2011-02	john.arnold@enron.com	1
+- 2011-03	bobette.riner@ipgdirect.com	2
+- 2011-03	john.arnold@enron.com	1
+- 2011-03	sally.beck@enron.com	1
+- 2011-04	don.baughman@enron.com	1
+- 2011-04	lydia.delgado@enron.com	1
+- 2011-05	lydia.delgado@enron.com	1
+- 2011-05	rhonda.denton@enron.com	1
+- 2011-06	johnny.palmer@enron.com	1
+- 2011-07	sally.beck@enron.com	2
+- 2011-07	bobette.riner@ipgdirect.com	1
+- 2011-07	johnny.palmer@enron.com	1
+- 2011-09	bobette.riner@ipgdirect.com	1
+- 2011-10	john.arnold@enron.com	1
+- 2011-11	bobette.riner@ipgdirect.com	1
+- 2011-11	patti.thompson@enron.com	1
+- 2011-12	eric.bass@enron.com	1
+- 2011-12	johnny.palmer@enron.com	1
+- 2011-12	sally.beck@enron.com	1
 
-  year_month from monthly_score
-  - 2010-01 kayne.coulter@enron.com 13
-  - 2010-01 eric.bass@enron.com 9
-  - 2010-01 lydia.delgado@enron.com 9
-  - 2010-02 john.arnold@enron.com 11
-  - 2010-02 johnny.palmer@enron.com 10
-  - 2010-02 bobette.riner@ipgdirect.com 7
-  - 2010-03 sally.beck@enron.com 11
-  - 2010-03 john.arnold@enron.com 7
-  - 2010-03 bobette.riner@ipgdirect.com 6
-  - 2010-04 don.baughman@enron.com 9
-  - 2010-04 kayne.coulter@enron.com 9
-  - 2010-04 john.arnold@enron.com 8
-  - 2010-05 don.baughman@enron.com 16
-  - 2010-05 patti.thompson@enron.com 9
-  - 2010-05 sally.beck@enron.com 8
-  - 2010-06 john.arnold@enron.com 10
-  - 2010-06 don.baughman@enron.com 9
-  - 2010-06 patti.thompson@enron.com 9
-  - 2010-07 eric.bass@enron.com 15
-  - 2010-07 bobette.riner@ipgdirect.com 8
-  - 2010-07 lydia.delgado@enron.com 8
-  - 2010-08 sally.beck@enron.com 13
-  - 2010-08 rhonda.denton@enron.com 9
-  - 2010-08 john.arnold@enron.com 7
-  - 2010-09 eric.bass@enron.com 11
-  - 2010-09 patti.thompson@enron.com 8
-  - 2010-09 john.arnold@enron.com 6
-  - 2010-10 lydia.delgado@enron.com 14
-  - 2010-10 johnny.palmer@enron.com 12
-  - 2010-10 patti.thompson@enron.com 11
-  - 2010-11 bobette.riner@ipgdirect.com 8
-  - 2010-11 john.arnold@enron.com 8
-  - 2010-11 lydia.delgado@enron.com 8
-  - 2010-12 john.arnold@enron.com 15
-  - 2010-12 lydia.delgado@enron.com 10
-  - 2010-12 don.baughman@enron.com 9
-  - 2011-01 bobette.riner@ipgdirect.com 10
-  - 2011-01 johnny.palmer@enron.com 9
-  - 2011-01 eric.bass@enron.com 8
-  - 2011-02 john.arnold@enron.com 16
-  - 2011-02 lydia.delgado@enron.com 15
-  - 2011-02 johnny.palmer@enron.com 9
-  - 2011-03 patti.thompson@enron.com 14
-  - 2011-03 rhonda.denton@enron.com 10
-  - 2011-03 john.arnold@enron.com 9
-  - 2011-04 lydia.delgado@enron.com 12
-  - 2011-04 bobette.riner@ipgdirect.com 9
-  - 2011-04 eric.bass@enron.com 8
-  - 2011-05 lydia.delgado@enron.com - 20
-  - 2011-05 eric.bass@enron.com 12
-  - 2011-05 don.baughman@enron.com 8
-  - 2011-06 eric.bass@enron.com 14
-  - 2011-06 johnny.palmer@enron.com 12
-  - 2011-06 bobette.riner@ipgdirect.com 9
-  - 2011-07 patti.thompson@enron.com 16
-  - 2011-07 sally.beck@enron.com 9
-  - 2011-07 bobette.riner@ipgdirect.com 8
-  - 2011-08 john.arnold@enron.com 12
-  - 2011-08 lydia.delgado@enron.com 11
-  - 2011-08 johnny.palmer@enron.com 8
-  - 2011-09 kayne.coulter@enron.com 12
-  - 2011-09 don.baughman@enron.com 10
-  - 2011-09 patti.thompson@enron.com 9
-  - 2011-10 lydia.delgado@enron.com 12
-  - 2011-10 john.arnold@enron.com 10
-  - 2011-10 don.baughman@enron.com 9
-  - 2011-11 kayne.coulter@enron.com 15
-  - 2011-11 bobette.riner@ipgdirect.com 9
-  - 2011-11 john.arnold@enron.com 9
-  - 2011-12 eric.bass@enron.com 12
-  - 2011-12 patti.thompson@enron.com 12
-  - 2011-12 lydia.delgado@enron.com 10
 
 </details>
 
 ---
 
 ### Model Summary
-`A more complex model than just linear regression is needed.`
+•	The baseline linear model provides a starting point but fails to capture complex sentiment dynamics.
+•	Suggested Next Steps:
+  + Use non-linear models:
+
