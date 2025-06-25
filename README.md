@@ -104,7 +104,7 @@ Year-Month Email MonthlyScore
 ---
 
 ### Model Summary
-•	The baseline linear model provides a starting point but fails to capture complex sentiment dynamics.
-•	Suggested Next Steps:
-  + Use non-linear models:
+-	The baseline linear model provides a starting point but fails to capture complex sentiment dynamics.
+-	Suggested Next Steps:
+    + Use non-linear models:
 
