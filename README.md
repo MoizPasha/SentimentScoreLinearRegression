@@ -10,7 +10,7 @@
 <details>
   <summary> Top 3 Negative Employees</summary>
 
-- Year-Month Email MonthlyScore
+Year-Month Email MonthlyScore
 - 2010-01	john.arnold@enron.com	-1
 - 2010-01	sally.beck@enron.com	-1
 - 2010-02	kayne.coulter@enron.com	-2
@@ -55,7 +55,9 @@
 
 <details>
   <summary> Top 3 Positive Employees</summary>
-- Year-Month Email MonthlyScore
+  
+Year-Month Email MonthlyScore
+  
 - 2010-01	don.baughman@enron.com	1
 - 2010-01	eric.bass@enron.com	1
 - 2010-02	don.baughman@enron.com	1
